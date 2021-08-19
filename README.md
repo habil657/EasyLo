@@ -1,2 +1,0 @@
-# EasyLo
-Exam
